@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofCircleMethod\Task4.AreaofCircleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofCircleMethod.genruntimeconfig.cache

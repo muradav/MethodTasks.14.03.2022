@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofQuadrangleMethod\Task4.AreaofQuadrangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofQuadrangleMethod.genruntimeconfig.cache

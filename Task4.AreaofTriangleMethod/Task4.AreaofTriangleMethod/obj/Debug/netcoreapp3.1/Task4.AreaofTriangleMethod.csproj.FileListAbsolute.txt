@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\bin\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.AreaofTriangleMethod\Task4.AreaofTriangleMethod\obj\Debug\netcoreapp3.1\Task4.AreaofTriangleMethod.genruntimeconfig.cache

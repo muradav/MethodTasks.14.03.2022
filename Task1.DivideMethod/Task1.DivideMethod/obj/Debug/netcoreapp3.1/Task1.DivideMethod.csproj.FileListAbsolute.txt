@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\bin\Debug\netcoreapp3.1\Task1.DivideMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task1.DivideMethod\Task1.DivideMethod\obj\Debug\netcoreapp3.1\Task1.DivideMethod.genruntimeconfig.cache

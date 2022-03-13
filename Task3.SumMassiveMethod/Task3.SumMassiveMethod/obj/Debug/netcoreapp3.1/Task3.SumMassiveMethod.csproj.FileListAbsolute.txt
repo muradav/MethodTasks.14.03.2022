@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\bin\Debug\netcoreapp3.1\Task3.SumMassiveMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task3.SumMassiveMethod\Task3.SumMassiveMethod\obj\Debug\netcoreapp3.1\Task3.SumMassiveMethod.genruntimeconfig.cache

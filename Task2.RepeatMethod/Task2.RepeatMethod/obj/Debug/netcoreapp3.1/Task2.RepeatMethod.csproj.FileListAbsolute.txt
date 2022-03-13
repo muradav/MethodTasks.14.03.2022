@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\bin\Debug\netcoreapp3.1\Task2.RepeatMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task2.RepeatMethod\Task2.RepeatMethod\obj\Debug\netcoreapp3.1\Task2.RepeatMethod.genruntimeconfig.cache
