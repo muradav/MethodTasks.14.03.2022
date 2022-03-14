@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.exe
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.deps.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.runtimeconfig.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\bin\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.dll
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.pdb
+C:\Users\HP\Desktop\Development\MethodTasks.14.03.2022\Task4.Area.Overloading.Method\Task4.Area.Overloading.Method\obj\Debug\netcoreapp3.1\Task4.Area.Overloading.Method.genruntimeconfig.cache
